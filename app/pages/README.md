@@ -1,0 +1,1 @@
+# Pages Directory \nThis directory contains the Next.js pages.
