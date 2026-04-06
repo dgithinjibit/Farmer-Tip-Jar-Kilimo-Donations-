@@ -1,65 +1,3 @@
-# 🌽 M-Pesa Farmer Tip Jar
-
-**Stellar White Belt Level 1** - Kenyan Farmers dApp on Testnet
-
-![Preview]()
-
-## 🚀 Project Overview
-
-Send XLM tips to Kenyan farmers using M-Pesa-style interface. Connect Freighter wallet, check "Shamba Balance", select farmers, send testnet XLM.
-
-**Kenya Impact**: 5M+ farmers + 90% mobile money adoption
-
-## ✨ Features
-
-- ✅ Freighter wallet connect/disconnect
-- ✅ Real-time XLM balance display
-- ✅ Testnet XLM transactions to farmers
-- ✅ M-Pesa UI (green/orange colors)
-- ✅ Kenyan farmers: Nyeri Coffee ☕, Kisumu Maize 🌽
-- ✅ Success feedback with TX hash
-
-## 📸 Screenshots
-
-### 1. Wallet Connected
-![Wallet & Balance]()
-
-### 2. Farmer Selection  
-![Farmer Selected]()
-
-### 3. Transaction Success
-![TX Success]()
-
-## 🛠️ Quick Setup
-
-1. **Install Freighter** wallet extension
-2. **Switch to TESTNET** 
-3. **Fund account**: [Stellar Laboratory]()
-4. **Open** `index.html` in browser
-5. **Connect** → **Select Farmer** → **Send Tip**
-
-```bash
-# No install needed!
-git clone YOUR_REPO_URL
-# Open index.html
-```
-
-## ✅ White Belt Requirements
-
-| Requirement | Status |
-|-------------|--------|
-| Freighter wallet setup | ✅ |
-| Wallet connect/disconnect | ✅ |
-| Balance display | ✅ |
-| Send XLM transaction | ✅ |
-| TX success feedback | ✅ |
-| Public GitHub repo | ✅ |
-
-## 💻 Tech Stack
-Vanilla HTML/CSS/JS (Single File)
-Stellar SDK v12.3.0
-Freighter Wallet (TESTNET)
-Stellar Testnet
 
 ## 🌍 Kenyan Context
 
@@ -69,9 +7,9 @@ Stellar Testnet
 
 ## 🎖️ Live Demo
 
-**Deploy**: Drag `index.html` to [Netlify Drop]()
+**Deploy**: Drag `index.html` to [Netlify Drop](https://app.netlify.com/drop)
 
-**Test TX**: View on [Stellar Explorer]()
+**Test TX**: View on [Stellar Explorer](https://laboratory.stellar.org/#explorer?network=test)
 
 ---
 
