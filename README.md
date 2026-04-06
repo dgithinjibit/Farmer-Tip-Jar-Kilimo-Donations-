@@ -2,7 +2,7 @@
 
 **Stellar White Belt Level 1** - Kenyan Farmers dApp on Testnet
 
-![Preview](screenshots/preview.png)
+![Preview]()
 
 ## 🚀 Project Overview
 
@@ -22,19 +22,19 @@ Send XLM tips to Kenyan farmers using M-Pesa-style interface. Connect Freighter 
 ## 📸 Screenshots
 
 ### 1. Wallet Connected
-![Wallet & Balance](screenshots/wallet-connected.png)
+![Wallet & Balance]()
 
 ### 2. Farmer Selection  
-![Farmer Selected](screenshots/farmer-selected.png)
+![Farmer Selected]()
 
 ### 3. Transaction Success
-![TX Success](screenshots/tx-success.png)
+![TX Success]()
 
 ## 🛠️ Quick Setup
 
 1. **Install Freighter** wallet extension
 2. **Switch to TESTNET** 
-3. **Fund account**: [Stellar Laboratory](https://laboratory.stellar.org/#account-creator?network=test)
+3. **Fund account**: [Stellar Laboratory]()
 4. **Open** `index.html` in browser
 5. **Connect** → **Select Farmer** → **Send Tip**
 
